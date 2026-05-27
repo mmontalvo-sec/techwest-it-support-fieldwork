@@ -1,0 +1,22 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Unredacted source material, never commit
+*-RAW.*
+*-UNREDACTED.*
+*-ORIGINAL.*
+client-records/
+private/
+
+# Temporary files
+*.tmp
+*.bak
