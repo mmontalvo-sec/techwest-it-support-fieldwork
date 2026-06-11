@@ -41,7 +41,7 @@ The portfolio also demonstrates communication skills that are difficult to verif
 
 Case Study 01 covers a ransomware impact assessment, evidence documentation, recoverability evaluation, endpoint restoration, and client backup education. It is the clearest demonstration of technical depth combined with realistic communication during a high-stress client incident.
 
-[Read Case Study 01](case-studies/01-ransomware-recovery-attempt-endpoint-restoration.md)
+[Read Case Study 01](fieldwork-reports/01-ransomware-recovery-attempt-endpoint-restoration.md)
 
 ---
 
@@ -52,7 +52,7 @@ The technician holds the following industry certifications that support the work
 - CompTIA ITF+
 - CompTIA A+
 - CompTIA Network+
-- CompTIA Security+
+- CompTIA Security+ (In Progress)
 - TestOut Ethical Hacker Pro
 - TestOut PC Pro
 - TestOut IT Fundamentals
