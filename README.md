@@ -31,18 +31,18 @@ Every case study follows a consistent format covering reported issue, diagnosis,
 
 | # | Case Study | Skills Demonstrated |
 |---|------------|---------------------|
-| 01 | [Ransomware Recovery Attempt and Endpoint Restoration](case-studies/01-ransomware-recovery-attempt-endpoint-restoration.md) | Ransomware impact assessment, evidence documentation, recoverability evaluation, endpoint restoration, backup education |
-| 02 | [Windows PC Maintenance and Optimization](case-studies/02-windows-pc-maintenance-and-optimization.md) | Performance diagnostics, startup cleanup, Event Viewer review, malware scanning, Windows updates |
-| 03 | [SSD Upgrade and Performance Restoration](case-studies/03-ssd-upgrade-and-performance-restoration.md) | Storage compatibility, hardware replacement, OS migration, driver validation, hardware lifecycle extension |
-| 04 | [Printer Connectivity Troubleshooting](case-studies/04-printer-connectivity-troubleshooting.md) | Print spooler diagnostics, driver management, USB and network printer setup, user training |
-| 05 | [RAM Diagnostics and System Stability](case-studies/05-ram-diagnostics-and-system-stability.md) | MemTest86, hardware fault isolation, RAM replacement, system stability validation |
-| 06 | [Thermal Maintenance and Repaste](case-studies/06-thermal-maintenance-and-repaste.md) | Internal cleaning, thermal paste replacement, fan inspection, temperature validation |
-| 07 | [Old Laptop Restoration with Lightweight Windows](case-studies/07-old-laptop-restoration-with-lightweight-windows.md) | Hardware assessment, lightweight OS deployment, expectation setting, hardware lifecycle extension |
-| 08 | [Client Backup and Data Protection Setup](case-studies/08-client-backup-and-data-protection-setup.md) | 3-2-1 backup planning, external and cloud backup setup, restore validation, prevention education |
-| 09 | [Small-Office Technology Support](case-studies/09-small-office-technology-support.md) | Workstation support, printer support, Windows updates, productivity continuity, client communication |
-| 10 | [Laser Printer Drum Replacement and Counter Reset](case-studies/10-laser-printer-drum-replacement-and-counter-reset.md) | Laser printer consumable management, maintenance mode access, drum vs. toner distinction, end-to-end validation |
-| 11 | [Active Directory User Account Support](case-studies/11-active-directory-user-account-support.md) | ADUC, account lockout investigation, password resets, new user provisioning, offboarding, group membership, PowerShell for AD |
-| 12 | [DNS, DHCP, and Network Connectivity Troubleshooting](case-studies/12-dns-dhcp-and-network-connectivity-troubleshooting.md) | APIPA diagnosis, DHCP scope management, DNS resolution troubleshooting, IP conflict resolution, OSI-layer diagnostic methodology |
+| 01 | [Ransomware Recovery Attempt and Endpoint Restoration](fieldwork-reports/01-ransomware-recovery-attempt-endpoint-restoration.md) | Ransomware impact assessment, evidence documentation, recoverability evaluation, endpoint restoration, backup education |
+| 02 | [Windows PC Maintenance and Optimization](fieldwork-reports/02-windows-pc-maintenance-and-optimization.md) | Performance diagnostics, startup cleanup, Event Viewer review, malware scanning, Windows updates |
+| 03 | [SSD Upgrade and Performance Restoration](fieldwork-reports/03-ssd-upgrade-and-performance-restoration.md) | Storage compatibility, hardware replacement, OS migration, driver validation, hardware lifecycle extension |
+| 04 | [Printer Connectivity Troubleshooting](fieldwork-reports/04-printer-connectivity-troubleshooting.md) | Print spooler diagnostics, driver management, USB and network printer setup, user training |
+| 05 | [RAM Diagnostics and System Stability](fieldwork-reports/05-ram-diagnostics-and-system-stability.md) | MemTest86, hardware fault isolation, RAM replacement, system stability validation |
+| 06 | [Thermal Maintenance and Repaste](fieldwork-reports/06-thermal-maintenance-and-repaste.md) | Internal cleaning, thermal paste replacement, fan inspection, temperature validation |
+| 07 | [Old Laptop Restoration with Lightweight Windows](fieldwork-reports/07-old-laptop-restoration-with-lightweight-windows.md) | Hardware assessment, lightweight OS deployment, expectation setting, hardware lifecycle extension |
+| 08 | [Client Backup and Data Protection Setup]fieldwork-reports/08-client-backup-and-data-protection-setup.md) | 3-2-1 backup planning, external and cloud backup setup, restore validation, prevention education |
+| 09 | [Small-Office Technology Support](fieldwork-reports/09-small-office-technology-support.md) | Workstation support, printer support, Windows updates, productivity continuity, client communication |
+| 10 | [Laser Printer Drum Replacement and Counter Reset](fieldwork-reports/10-laser-printer-drum-replacement-and-counter-reset.md) | Laser printer consumable management, maintenance mode access, drum vs. toner distinction, end-to-end validation |
+| 11 | [Active Directory User Account Support](fieldwork-reports/11-active-directory-user-account-support.md) | ADUC, account lockout investigation, password resets, new user provisioning, offboarding, group membership, PowerShell for AD |
+| 12 | [DNS, DHCP, and Network Connectivity Troubleshooting](fieldwork-reports/12-dns-dhcp-and-network-connectivity-troubleshooting.md) | APIPA diagnosis, DHCP scope management, DNS resolution troubleshooting, IP conflict resolution, OSI-layer diagnostic methodology |
 
 ---
 
@@ -91,10 +91,10 @@ When a case study references real work, generic language is used: "client laptop
 If you are reviewing this for an IT Support, Help Desk, Desktop Support, Field Technician, or junior systems role, the recommended reading order is:
 
 1. [portfolio-summary.md](portfolio-summary.md) for a fast overview of experience
-2. [case-studies/01-ransomware-recovery-attempt-endpoint-restoration.md](case-studies/01-ransomware-recovery-attempt-endpoint-restoration.md) for the strongest technical case
+2. [case-studies/01-ransomware-recovery-attempt-endpoint-restoration.md](fieldwork-reports/01-ransomware-recovery-attempt-endpoint-restoration.md) for the strongest technical case
 3. [customer-service-approach.md](customer-service-approach.md) for direct client-facing skills
 4. [service-catalog.md](service-catalog.md) for the full range of services performed
-5. [resume-linkedin/interview-talking-points.md](resume-linkedin/interview-talking-points.md) for discussion of cases in interview format
+5. [tools-and-workflow.md](tools-and-workflow.md) for discussion of cases in interview format
 
 ---
 
@@ -130,11 +130,11 @@ techwest-it-service-portfolio/
 ├── service-catalog.md                     Services offered
 ├── tools-and-workflow.md                  Tools and methodology
 ├── customer-service-approach.md           Client-facing approach
-├── case-studies/                          Nine sanitized real-world cases
-├── service-documentation/                 Checklists and intake templates
-├── templates/                             Reusable case and report templates
-├── assets/                                Redacted screenshots and diagrams
-└── resume-linkedin/                       Resume bullets, LinkedIn, interview prep
+├── fieldwork-reports/                     Twelve sanitized IT support case studies
+├── service-documentation/                 Checklists and support documentation
+├── templates/                             Reusable service report templates
+├── assets/hardware-photos/                Redacted hardware and repair photos
+
 ```
 
 ---
